@@ -1,6 +1,0 @@
-1)https://www.javatpoint.com/bubble-sort      AND YUTUB https://www.youtube.com/watch?v=Ya4Ym_Jp4cQ&list=PLfzDHnNOaPFJtJN2KtzEsjfPBh678BlZo&index=2
-2)https://www.javatpoint.com/insertion-sort   AND YUTUB https://www.youtube.com/watch?v=-UYFgLV6Q5c
-3)https://www.javatpoint.com/selection-sort   AND YUTUB https://www.youtube.com/watch?v=UGABYQUEl1Q&list=PLfzDHnNOaPFJtJN2KtzEsjfPBh678BlZo&index=1
-4)https://www.javatpoint.com/merge-sort       AND YUTUB https://www.youtube.com/watch?v=bYwMvD0_gME
-5)https://www.javatpoint.com/quick-sort       AND YUTUB https://www.youtube.com/watch?v=qkSfL8DSpug
-6)https://www.javatpoint.com/heap-sort        AND YUTUB

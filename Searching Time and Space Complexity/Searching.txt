@@ -1,0 +1,7 @@
+1)https://www.simplilearn.com/tutorials/data-structure-tutorial/linear-search-algorithm
+2)https://www.javatpoint.com/binary-search
+3)https://howtodoinjava.com/algorithm/jump-search-algorithm/
+4)https://iq.opengenus.org/fibonacci-search/
+5)https://iq.opengenus.org/fuzzy-search-algorithm/  EXP.
+
+
